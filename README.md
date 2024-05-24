@@ -17,3 +17,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruben-dev98&show_icons=true&locale=en&layout=compact" alt="ruben-dev98" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruben-dev98&show_icons=true&locale=en" alt="ruben-dev98" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruben-dev98&" alt="ruben-dev98" /></p>
+
